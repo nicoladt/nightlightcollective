@@ -10,13 +10,17 @@ background-size: cover;
 
 .intro .intro-body{
     vertical-align:top;
-    padding-top:8%;
+    padding-top:4%;
     }
 
 h1{
     font-family: 'Montserrat', Trebuchet, sans-serif;
     color:black;
 
+}
+
+span#surheading{
+  font-size: 30px;
 }
 
 
